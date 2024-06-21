@@ -9,4 +9,3 @@ netdata/netdata
 linuxserver/qbittorrent
 nyanmisaka/jellyfin
 linuxserver/webtop
-zabbix/zabbix
