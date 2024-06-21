@@ -10,3 +10,4 @@ netdata/netdata
 jellyfin/jellyfin
 nyanmisaka/jellyfin
 linuxserver/webtop
+zabbix
