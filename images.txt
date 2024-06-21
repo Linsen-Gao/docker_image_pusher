@@ -6,8 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
 netdata/netdata
- linuxserver/qbittorrent
-jellyfin/jellyfin
+linuxserver/qbittorrent
 nyanmisaka/jellyfin
 linuxserver/webtop
-zabbix
+zabbix/zabbix
