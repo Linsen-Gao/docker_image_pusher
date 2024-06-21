@@ -9,4 +9,4 @@ netdata/netdata
  linuxserver/qbittorrent
 jellyfin/jellyfin
 nyanmisaka/jellyfin
-linuxserver/docker-webtop
+linuxserver/webtop
