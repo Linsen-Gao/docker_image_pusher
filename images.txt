@@ -5,8 +5,11 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
+#小高的Docker项目
 netdata/netdata
 linuxserver/qbittorrent
 nyanmisaka/jellyfin
 linuxserver/webtop
 zabbix/zabbix-server-mysql
+19970688/nastools
+nastools/nas-tools
