@@ -11,5 +11,5 @@ linuxserver/qbittorrent
 nyanmisaka/jellyfin
 linuxserver/webtop
 zabbix/zabbix-server-mysql
-19970688/nastools
+19970688/nastools-bt
 nastools/nas-tools
